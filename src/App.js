@@ -637,10 +637,10 @@ function ContactSection() {
     try {
       // You'll need to replace these with your actual EmailJS credentials
       const result = await emailjs.sendForm(
-        'service_2by71dc', // Replace with your EmailJS service ID
-        'template_f4r52rq', // Replace with your EmailJS template ID
+        'service_abc123x', // Replace with your EmailJS service ID
+        'template_xyz789m', // Replace with your EmailJS template ID
         formRef.current,
-        'X4hLnCp2vkI1dgN0_' // Replace with your EmailJS public key
+        'K9mP7qR3nL2vB5tY8' // Replace with your EmailJS public key
       );
 
       if (result.status === 200) {

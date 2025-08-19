@@ -57,9 +57,9 @@ To enable the contact form functionality:
 Create a `.env` file in the root directory and add your EmailJS credentials:
 
 ```env
-REACT_APP_EMAILJS_SERVICE_ID=your_service_id
-REACT_APP_EMAILJS_TEMPLATE_ID=your_template_id
-REACT_APP_EMAILJS_PUBLIC_KEY=your_public_key
+REACT_APP_EMAILJS_SERVICE_ID=service_xxxxxxx
+REACT_APP_EMAILJS_TEMPLATE_ID=template_xxxxxxx
+REACT_APP_EMAILJS_PUBLIC_KEY=xxxxxxxxxxxxxxx
 ```
 
 ## 🚀 Deployment
