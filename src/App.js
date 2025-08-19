@@ -839,7 +839,7 @@ function Footer() {
             </p>
             <div className="flex space-x-3 md:space-x-4">
               <motion.a
-                href="https://github.com/bahriaFurqan"
+                href="/add your link"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1, y: -2, rotate: 5 }}
@@ -857,7 +857,7 @@ function Footer() {
                 <FiLinkedin className="text-white" size={16} />
               </motion.a>
               <motion.a
-                href="https://twitter.com/furqanahmad"
+                href="/add your linkd"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1, y: -2, rotate: 5 }}
@@ -889,8 +889,8 @@ function Footer() {
           <div>
             <h4 className="text-base md:text-lg font-semibold mb-3 md:mb-4 text-white">Contact</h4>
             <div className="space-y-2 text-gray-400 text-sm md:text-base mobile-text">
-              <p>ahmedfurqan679@gmail.com</p>
-              <p>+92 313 2004596</p>
+              <p>username@gmail.com</p>
+              <p>+92 00 000006</p>
               <p>Pakistan</p>
             </div>
           </div>
